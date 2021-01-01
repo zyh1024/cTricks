@@ -25,7 +25,7 @@ int main()
     }
     printAlarm("hello world!");
     freeMatrix(p);
-    // getchar();
+    getchar();
     return 0;
 }
 
