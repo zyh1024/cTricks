@@ -1,0 +1,2 @@
+# cTricks
+tricks for oj
